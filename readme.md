@@ -1,7 +1,7 @@
 
 # odin-recipes
 
-Learing project displaying recipes.
+Learning project displaying recipes.
 
 
 ## Demo
