@@ -6,10 +6,10 @@ Learning project displaying recipes.
 
 ## Demo
 
-https://szejku11.github.io/odin-recipes/
+https://piotr-owczarek.github.io/odin-recipes/
 
 
 ## Authors
 
-- [@szejku11](https://github.com/szejku11)
+- [@piotr-owczarek](https://github.com/piotr-owczarek)
 
